@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="mailGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0078d4"/>
+      <stop offset="100%" stop-color="#0051ba"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#mailGrad)"/>
+  <rect x="32" y="52" width="192" height="152" rx="16" fill="none" stroke="#ffffff" stroke-width="10"/>
+  <polyline points="32,52 128,120 224,52" fill="none" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"/>
+  <g fill="#ffffff" opacity="0.6">
+    <rect x="44" y="80" width="40" height="8" rx="4"/>
+    <rect x="44" y="100" width="50" height="8" rx="4"/>
+    <rect x="44" y="120" width="40" height="8" rx="4"/>
+  </g>
+</svg>

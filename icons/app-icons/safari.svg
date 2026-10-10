@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="safariGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff9500"/>
+      <stop offset="100%" stop-color="#cc6b00"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#safariGrad)"/>
+  <circle cx="128" cy="128" r="65" fill="none" stroke="#ffffff" stroke-width="12"/>
+  <circle cx="128" cy="128" r="38" fill="#ffffff" fill-opacity="0.2"/>
+  <path d="M128 88 L155 128 L128 168 L101 128 Z" fill="#ffffff" fill-opacity="0.8"/>
+  <circle cx="128" cy="128" r="16" fill="#ffffff"/>
+</svg>
